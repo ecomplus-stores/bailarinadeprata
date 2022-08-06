@@ -4,6 +4,7 @@
   "domain": "bailarinadeprata.netlify.app",
   "short_name": "bailarinadeprata",
   "description": "bailarinadeprata",
+  "repository": "ecomplus-stores/bailarinadeprata",
   "primary_color": "#222831",
   "secondary_color": "#393e46",
   "bg_color": "#ffffff",
