@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.ce91d61e84a3a3d7f05193ec1099f7bf.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.0d2bc06cd25e868ade6923f31c9c5854.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.5a97930f282831af33af6477963dbc48.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.555083ae30513c66e24642f5edb5e977.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.327029635f700278244a5ae5059bb7d0.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "bailarinadeprata",
+  "short_name": "bailarinadeprata",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "bailarinadeprata",
+  "background_color": "#ffffff",
+  "theme_color": "#463836"
+}
