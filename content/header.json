@@ -1,7 +1,9 @@
 {
   "marketing_stripe": {
     "text": "Primeira vez? Use nosso cupom PRIMEIRACOMPRA para ganhar 10% de desconto!",
-    "link": "/promotion"
+    "link": "/promotion",
+    "background": "#edadcc",
+    "color": "#0b0b0b"
   },
   "contacts_stripe": {
     "pages": [],
@@ -10,8 +12,8 @@
   },
   "categories_list": {
     "featured": [],
-    "random": 6,
-    "full_width": false
+    "random": 8,
+    "full_width": true
   },
   "desktop_megamenu": false,
   "search_input": true
