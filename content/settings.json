@@ -1,26 +1,26 @@
 {
   "domain": "bailarinadeprata.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#463836",
+  "primary_color": "#c11063",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/bailarinadeprata",
-  "logo": "/img/uploads/bailarina-logo-circulo-transp.png",
+  "logo": "/img/uploads/sem-nome-2000-2000-px-.png",
   "name": "bailarinadeprata",
   "short_name": "bailarinadeprata",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "font_family": "_",
+  "font_family": "Montserrat",
   "favicon": "/img/uploads/bailarina-logo-circulo-transp.png",
   "icons_font": "_",
   "country_code": "BR",
   "secondary_color": "#edadcc",
   "icon": "/img/uploads/bailarina-logo-circulo-transp.png",
   "store_id": 17682,
-  "description": "bailarinadeprata ",
+  "description": "Olá!\nSomos uma loja de joias especializada em Prata 925.\nNossa fabricação é Artesanal e nossos produtos são exclusivos!\n",
   "large_icon": "/img/uploads/bailarina-logo-circulo-transp.png"
 }
