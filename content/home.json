@@ -9,7 +9,7 @@
       "slides": [
         {
           "img": "/img/uploads/an-is.png",
-          "link": "/headset",
+          "link": "https://www.bailarinadeprata.com.br/aneis",
           "alt": "Headset banner",
           "start": "",
           "end": "",
@@ -20,7 +20,8 @@
           "alt": "Banner sample two",
           "start": "",
           "end": "",
-          "mobile_img": ""
+          "mobile_img": "",
+          "link": "https://www.bailarinadeprata.com.br/aliancas"
         }
       ]
     },
