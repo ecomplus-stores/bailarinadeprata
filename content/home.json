@@ -8,19 +8,19 @@
       "full_width": false,
       "slides": [
         {
-          "img": "/img/uploads/capas-loja-shopee.png",
+          "img": "/img/uploads/an-is.png",
           "link": "/headset",
           "alt": "Headset banner",
-          "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z",
-          "mobile_img": "/img/uploads/headphone.webp"
+          "start": "",
+          "end": "",
+          "mobile_img": ""
         },
         {
-          "img": "/img/uploads/capas-loja-shopee.png",
+          "img": "/img/uploads/hora-do-sim.png",
           "alt": "Banner sample two",
           "start": "",
           "end": "",
-          "mobile_img": "/img/uploads/capas-loja-shopee.png"
+          "mobile_img": ""
         }
       ]
     },
