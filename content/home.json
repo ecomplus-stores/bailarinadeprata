@@ -30,16 +30,55 @@
     },
     {
       "type": "dynamic-showcase",
-      "load_more": true,
+      "load_more": false,
       "sort": "sales"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "61c3217f0c7c727225dc06aa:categories:Anéis:/aneis",
+      "sort": "sales",
+      "title": "Anéis (Clique aqui e confira todos os modelos)",
+      "headless": false
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "61c3217f0c7c727225dc06aa:categories:Anéis:/aneis",
-      "sort": "news"
+      "collection_id": "61c4ed7b0c7c727225dee304:categories:Alianças:/aliancas",
+      "sort": "news",
+      "title": "Para Hora do Sim! (Confira mais modelos aqui)"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "61c321e30c7c727225dc075e:categories:Colares:/gargantilha-colar-chocker",
+      "sort": "views",
+      "link": "Colares (Clique aqui e veja mais modelos)"
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 8000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/1.png",
+          "mobile_img": "/img/uploads/o-que-fala1.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/2.png",
+          "mobile_img": "/img/uploads/o-que-fala2.png"
+        }
+      ]
     }
   ]
 }
