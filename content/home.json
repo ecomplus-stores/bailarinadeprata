@@ -77,6 +77,12 @@
           "end": "",
           "img": "/img/uploads/2.png",
           "mobile_img": "/img/uploads/o-que-fala2.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/3.png",
+          "mobile_img": "/img/uploads/o-que-fala3.png"
         }
       ]
     }
