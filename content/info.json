@@ -1,7 +1,7 @@
 {
   "shipping": {
     "show": true,
-    "text": "Frete Grátis | Compras acima de R$ 200"
+    "text": "Frete Grátis*"
   },
   "installments": {
     "show": true,
