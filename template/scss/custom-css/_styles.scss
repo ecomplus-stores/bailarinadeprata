@@ -1,1 +1,11 @@
 // Add your custom CSS here.
+.menu__list a:hover {
+  background: none;
+  color: var(--primary);
+}
+ .header__nav a:hover {
+    background: none;
+    color: var(--primary);;
+    border-bottom: 1px solid var(--primary);;
+    border-radius: 0px;
+ }
