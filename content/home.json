@@ -4,7 +4,7 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 9000,
+      "autoplay": 7000,
       "full_width": false,
       "slides": [
         {
@@ -22,6 +22,11 @@
           "end": "",
           "mobile_img": "",
           "link": "https://www.bailarinadeprata.com.br/aliancas"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-5x-sem-juros-1-.png"
         }
       ]
     },
