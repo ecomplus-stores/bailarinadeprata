@@ -8,6 +8,11 @@
       "full_width": false,
       "slides": [
         {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-frete-gratis-1-.png"
+        },
+        {
           "img": "/img/uploads/an-is.png",
           "link": "https://www.bailarinadeprata.com.br/aneis",
           "alt": "Headset banner",
@@ -27,11 +32,6 @@
           "start": "",
           "end": "",
           "img": "/img/uploads/banner-5x-sem-juros-1-.png"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/banner-frete-gratis-1-.png"
         }
       ]
     },
