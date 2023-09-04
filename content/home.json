@@ -43,17 +43,17 @@
     },
     {
       "type": "dynamic-showcase",
-      "load_more": false,
+      "load_more": true,
       "sort": "sales"
     },
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "limit": 12,
+      "limit": "",
       "page": 1,
       "collection_id": "61c3217f0c7c727225dc06aa:categories:Anéis:/aneis",
       "sort": "sales",
-      "title": "Anéis (Clique aqui e confira todos os modelos)",
+      "title": "AMAMOS ANÉIS!",
       "headless": false
     },
     {
@@ -86,9 +86,17 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
+      "collection_id": "637ffd6973321213f8ef1a33:categories:Kits de Anéis:/kits-de-aneis",
+      "title": "KITS DE ANÉIS"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": "",
+      "page": 1,
       "collection_id": "61c4ed7b0c7c727225dee304:categories:Alianças:/aliancas",
       "sort": "news",
-      "title": "Para Hora do Sim! (Confira mais modelos aqui)"
+      "title": "ALIANÇAS PARA HORA DO SIM"
     },
     {
       "type": "collection-shelf",
@@ -97,7 +105,31 @@
       "page": 1,
       "collection_id": "61c321e30c7c727225dc075e:categories:Colares:/gargantilha-colar-chocker",
       "sort": "views",
-      "link": "Colares (Clique aqui e veja mais modelos)"
+      "link": "COLARES E GARGANTILHAS"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "61c321730c7c727225dc0690:categories:Brincos:/brincos",
+      "title": "BRINCOS"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": "",
+      "page": 1,
+      "collection_id": "61c321920c7c727225dc06d5:categories:Pulseiras:/pulseirasbraceletes",
+      "title": "PULSEIRAS"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "61c322750c7c727225dc088a:categories:Pingentes:/pingentes-prata-925",
+      "title": "PINGENTES"
     }
   ]
 }
