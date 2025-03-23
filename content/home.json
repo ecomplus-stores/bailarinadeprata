@@ -36,6 +36,22 @@
       "enabled": true
     },
     {
+      "type": "shelfs-nav",
+      "shuffle": false,
+      "limit": 7,
+      "page": 1,
+      "collection_ids": [
+        "61c4ed7b0c7c727225dee304:categories:Alianças:/aliancas",
+        "61c3217f0c7c727225dc06aa:categories:Anéis:/aneis",
+        "61c321e30c7c727225dc075e:categories:Colares:/gargantilha-colar-chocker",
+        "61c321730c7c727225dc0690:categories:Brincos:/brincos",
+        "61c321920c7c727225dc06d5:categories:Pulseiras:/pulseirasbraceletes",
+        "61c322750c7c727225dc088a:categories:Pingentes:/pingentes-prata-925",
+        "61c322990c7c727225dc08dd:categories:Correntes:/correntes",
+        "637ffd6973321213f8ef1a33:categories:Kits de Anéis:/kits-de-aneis"
+      ]
+    },
+    {
       "type": "banner-slider",
       "autoplay": 8000,
       "full_width": false,
@@ -58,22 +74,6 @@
           "img": "/img/uploads/3.png",
           "mobile_img": "/img/uploads/20000-o-que-fala3.png"
         }
-      ]
-    },
-    {
-      "type": "shelfs-nav",
-      "shuffle": false,
-      "limit": 7,
-      "page": 1,
-      "collection_ids": [
-        "61c4ed7b0c7c727225dee304:categories:Alianças:/aliancas",
-        "61c3217f0c7c727225dc06aa:categories:Anéis:/aneis",
-        "61c321e30c7c727225dc075e:categories:Colares:/gargantilha-colar-chocker",
-        "61c321730c7c727225dc0690:categories:Brincos:/brincos",
-        "61c321920c7c727225dc06d5:categories:Pulseiras:/pulseirasbraceletes",
-        "61c322750c7c727225dc088a:categories:Pingentes:/pingentes-prata-925",
-        "61c322990c7c727225dc08dd:categories:Correntes:/correntes",
-        "637ffd6973321213f8ef1a33:categories:Kits de Anéis:/kits-de-aneis"
       ]
     }
   ]
