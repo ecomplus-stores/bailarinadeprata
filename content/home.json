@@ -39,6 +39,26 @@
       "type": "dynamic-showcase",
       "load_more": false,
       "sort": "news"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/aliancas-grid.png",
+          "link": "https://www.bailarinadeprata.com.br/aliancas",
+          "mobile_img": "/img/uploads/aliancas-grid.png"
+        },
+        {
+          "img": "/img/uploads/colares-grid.png",
+          "link": "https://www.bailarinadeprata.com.br/gargantilha-colar-chocker",
+          "mobile_img": "/img/uploads/colares-grid.png"
+        },
+        {
+          "img": "/img/uploads/aneis-grid.png",
+          "link": "https://www.bailarinadeprata.com.br/kits-de-aneis",
+          "mobile_img": "/img/uploads/aneis-grid.png"
+        }
+      ]
     }
   ]
 }
