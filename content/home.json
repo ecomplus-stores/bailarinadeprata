@@ -36,11 +36,6 @@
       "enabled": true
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "news"
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
