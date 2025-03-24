@@ -77,6 +77,14 @@
       "collection_id": "61c3217f0c7c727225dc06aa:categories:Anéis:/aneis",
       "sort": "sales",
       "title": "♥ Amamos Anéis ♥"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "61c4ed7b0c7c727225dee304:categories:Alianças:/aliancas",
+      "title": "♥ Para Hora do SIM! ♥"
     }
   ]
 }
