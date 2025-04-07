@@ -9,3 +9,6 @@
     border-bottom: 1px solid var(--primary-lighter);;
     border-radius: 0px;
  }
+.shipping-line[data-service-code="PROPRIA"] span {
+  display: none
+}
